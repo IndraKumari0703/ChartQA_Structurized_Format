@@ -1,0 +1,1 @@
+# ChartQA_Structurized_Format
